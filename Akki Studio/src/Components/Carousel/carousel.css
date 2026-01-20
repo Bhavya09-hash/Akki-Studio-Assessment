@@ -1,0 +1,43 @@
+.carousel-control-next{
+    margin: 0px 30px;
+    border-radius: 50%;
+    padding:10px;
+    size:30px;
+    height: 40px;
+    top: 50%;
+    width: 40px;
+    background-color:#264f28;
+}
+
+.carousel-control-prev{
+    margin: 0px 30px;
+    
+    border-radius: 50%;
+    padding:10px;
+    size:30px;
+    height: 40px;
+    top: 50%;
+    width: 40px;
+    background-color:#264f28;
+}
+
+.car-holder{
+    height: 92vh;
+}
+
+.car-img {
+  height: 100%;
+  object-fit: fill;
+}
+
+.btn:hover {
+  color: black;              
+  border-color: black;       
+  background-color: transparent;   
+}
+
+.slogan{
+    background-color: #264f28;
+    color: white;
+    padding: 10px 0px 4px 0px;
+}

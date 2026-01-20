@@ -1,0 +1,45 @@
+.events{
+    background-color: #e4f1e0;
+}
+.title-head,.title-text{
+    color: #173218;
+    margin-bottom: 0px;
+}
+.active-style{
+    background-color: #2E5A31;
+    color: white;
+}
+.inactive-style{
+    background-color:transparent;
+    color: #173218;
+}
+.btn-events{
+    border:#173218 1px solid;   
+}
+.active-style:hover,
+.inactive-style:hover,
+.btn-events:hover {
+    background-color: #2E5A31; 
+    color: white;
+}   
+
+.event-content{
+    background-color: white;
+    border-radius: 15px;
+}
+.card-inner{
+    border: 1px solid #676767 !important;
+}
+.indicate {
+    width: 6px !important;       
+    height: 6px !important;      
+    border-radius: 50%;          
+    background-color: rgb(156, 156, 156) !important; 
+    opacity: 1 !important;        
+    border: 1px solid rgb(156, 156, 156); 
+    margin: 0 4px;                
+    padding: 0;                   
+}
+.indicate.active {
+    background-color: black !important; 
+}

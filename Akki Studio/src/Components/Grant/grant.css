@@ -1,0 +1,33 @@
+
+.grant-title {
+    color: #173218; 
+    font-size: 2.5rem;
+}
+
+.grant-text {
+    color: #333; 
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+
+.btn-grant {
+    background-color: #173218;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-grant:hover {
+    background-color: #2E5A31; 
+}
+
+.grant-img {
+    height: 400px;         
+    object-fit: cover;     
+    width: 100%;
+}
+
+.car-inner  {
+    border-radius: 20px; 
+    overflow: hidden; 
+}

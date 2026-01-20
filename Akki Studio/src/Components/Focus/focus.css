@@ -1,0 +1,30 @@
+.img-small {
+    height: 250px;       
+    width: 100%;
+    object-fit: cover;   
+}
+
+
+.img-tall {
+    height: 526px;       
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.gradient-overlay {
+    background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+    transition: background 0.3s ease;
+}
+
+.card:hover .gradient-overlay {
+    background: linear-gradient(to top, #2E5A31, rgba(0,0,0,0.2));
+}
+
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
