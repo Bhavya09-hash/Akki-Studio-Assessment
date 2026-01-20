@@ -11,7 +11,7 @@ return (
     <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
   <div className="carousel-inner">
     <div className="car-holder carousel-item active" data-bs-interval="1000">
-      <img src={image1} className="car-img img-fluid d-block w-100" alt="..."/>
+      <img src={image1} className="car-img img-fluid d-block w-100" alt="Animal"/>
       <div className="carousel-caption d-flex justify-content-between align-items-center" style={{bottom: "5%"}}>
              <div className=" d-flex  justify-content-center j">
              <button className="btn btn-outline-light rounded-pill px-4 py-2 border-2 fw-bold">
@@ -27,7 +27,7 @@ return (
           </div>
     </div>
     <div className="car-holder carousel-item" data-bs-interval="2000">
-      <img src={image2} className="car-img img-fluidd-block w-100" alt="..."/>
+      <img src={image2} className="car-img img-fluid d-block w-100" alt="Education"/>
       <div className="carousel-caption d-flex justify-content-between align-items-center" style={{bottom: "5%"}}>
              <div className=" d-flex  justify-content-center j">
              <button className="btn btn-outline-light rounded-pill px-4 py-2 border-2 fw-bold">
@@ -43,7 +43,7 @@ return (
           </div>
     </div>
     <div className="car-holder carousel-item">
-      <img src={image3} className="car-img img-fluid d-block w-100" alt="..."/>
+      <img src={image3} className="car-img img-fluid d-block w-100" alt="Environment"/>
       <div className="carousel-caption d-flex justify-content-between align-items-center" style={{bottom: "5%"}}>
              <div className=" d-flex  justify-content-center j">
              <button className="btn btn-outline-light rounded-pill px-4 py-2 border-2 fw-bold">

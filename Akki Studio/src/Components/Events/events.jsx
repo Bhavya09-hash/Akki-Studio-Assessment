@@ -46,7 +46,7 @@ const Events = () => {
                     <div className="card card-inner mb-3 w-100 border-0 border border-black shadow rounded" >
                         <div className="row g-0">
                             <div className="col-md-5">
-                            <img src={image1} className="img-fluid rounded-start h-100" alt="..."/>
+                            <img src={image1} className="img-fluid rounded-start h-100" alt="Cat shelter"/>
                             </div>
                             <div className="col-md-7">
                             <div className="card-body p-4 p-lg-5">
@@ -82,7 +82,7 @@ const Events = () => {
                     <div className="card card-inner mb-3 w-100 border-0 shadow rounded" >
                         <div className="row g-0">
                             <div className="col-md-5">
-                            <img src={image2} className="img-fluid rounded-start h-100" alt="..."/>
+                            <img src={image2} className="img-fluid rounded-start h-100" alt="Health Checkup Camp"/>
                             </div>
                             <div className="col-md-7">
                             <div className="card-body p-4 p-lg-5">
@@ -123,7 +123,7 @@ const Events = () => {
                     <div className="card card-inner mb-3 w-100 border-0 shadow rounded" >
                         <div className="row g-0">
                             <div className="col-md-5">
-                            <img src={image3} className="img-fluid rounded-start h-100" alt="..."/>
+                            <img src={image3} className="img-fluid rounded-start h-100" alt="Stationery Distribution"/>
                             </div>
                             <div className="col-md-7">
                             <div className="card-body p-4 p-lg-5">
