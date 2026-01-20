@@ -1,3 +1,3 @@
-Akki Studio Assessment
+Akki Studios Assessment
 
 This project is created as part of the technical assessment.
